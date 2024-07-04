@@ -1,0 +1,28 @@
+{
+  "name": "rest-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "1.20.2",
+    "express": "^4.18.2",
+    "express-graphql": "^0.6.12",
+    "express-validator": "^5.3.0",
+    "graphql": "^14.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "multer": "^1.4.0",
+    "socket.io": "^2.1.1",
+    "validator": "^10.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
