@@ -28,7 +28,7 @@ Message Node is a dynamic application where users can create message posts with 
   npm install
 
 3.**Install frontend dependencies**
- ```bash
+  ```bash
  cd frontend
  npm install
 
