@@ -22,23 +22,23 @@ Message Node is a dynamic application where users can create message posts with 
    ```bash
    git clone https://github.com/taherankhan/message-node.git
    cd message-node
+   
 2. **Install backend dependencies**
-  ```bash
   cd backend
   npm install
 
 3.**Install frontend dependencies**
-  ```bash
+
  cd frontend
  npm install
 
 4. **Start the backend server**
- ```bash
+
  cd backend
  npm start
 
 5. **Start the frontend server**
-```bash
+
  cd frontend
  npm start
 
